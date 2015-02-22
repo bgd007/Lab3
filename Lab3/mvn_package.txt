@@ -1,0 +1,64 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Lab3 Maven Webapp 1.0
+[INFO] ------------------------------------------------------------------------
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+4/7 KB   7/7 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom (7 KB at 7.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+4/77 KB   8/77 KB   8/77 KB   12/77 KB   16/77 KB   16/77 KB   20/77 KB   24/77 KB   24/77 KB   28/77 KB   31/77 KB   32/77 KB   36/77 KB   39/77 KB   40/77 KB   44/77 KB   47/77 KB   48/77 KB   52/77 KB   55/77 KB   56/77 KB   60/77 KB   63/77 KB   64/77 KB   68/77 KB   70/77 KB   72/77 KB   76/77 KB   77/77 KB              Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar (77 KB at 243.1 KB/sec)
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ Lab3 ---
+[WARNING] Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ Lab3 ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ Lab3 ---
+[WARNING] Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory J:\java.course.dev\projects\Lab3\Lab3\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ Lab3 ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ Lab3 ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- maven-war-plugin:2.2:war (default-war) @ Lab3 ---
+Downloading: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom
+4/12 KB    8/12 KB   8/12 KB   12/12 KB              Downloaded: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.pom (12 KB at 90.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+4/14 KB    8/14 KB   8/14 KB   12/14 KB   14/14 KB              Downloaded: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom (14 KB at 110.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2/2 KB              Downloaded: https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom (2 KB at 13.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom
+4/4 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.pom (4 KB at 31.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom
+4/9 KB   8/9 KB   8/9 KB   9/9 KB            Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/10/maven-shared-components-10.pom (9 KB at 50.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom
+4/6 KB   6/6 KB            Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.pom (6 KB at 39.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom
+4/10 KB   8/10 KB   8/10 KB   10/10 KB              Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.12/plexus-1.0.12.pom (10 KB at 82.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom
+3/3 KB              Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom (3 KB at 24.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar
+Downloading: https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+4/422 KB   8/422 KB   8/422 KB   12/422 KB   16/422 KB   16/422 KB   20/422 KB   24/422 KB   24/422 KB   28/422 KB   31/422 KB   32/422 KB   36/422 KB   39/422 KB   40/422 KB   44/422 KB   47/422 KB   48/422 KB   52/422 KB   55/422 KB   56/422 KB   60/422 KB   63/422 KB   64/422 KB   68/422 KB   70/422 KB   72/422 KB   76/422 KB   78/422 KB   80/422 KB   84/422 KB   86/422 KB   86/422 KB   4/33 KB   86/422 KB   8/33 KB   86/422 KB   8/33 KB   86/422 KB   8/33 KB   4/25 KB   86/422 KB   8/33 KB   8/25 KB   86/422 KB   8/33 KB   8/25 KB   88/422 KB   8/33 KB   8/25 KB   92/422 KB   8/33 KB   8/25 KB   94/422 KB   8/33 KB   8/25 KB   96/422 KB   8/33 KB   8/25 KB   100/422 KB   8/33 KB   8/25 KB   102/422 KB   8/33 KB   8/25 KB   104/422 KB   8/33 KB   8/25 KB   108/422 KB   8/33 KB   8/25 KB   109/422 KB   8/33 KB   8/25 KB   112/422 KB   8/33 KB   8/25 KB   116/422 KB   8/33 KB   8/25 KB   117/422 KB   8/33 KB   8/25 KB   120/422 KB   8/33 KB   8/25 KB   124/422 KB   8/33 KB   8/25 KB   125/422 KB   8/33 KB   8/25 KB   125/422 KB   12/33 KB   8/25 KB   125/422 KB   16/33 KB   8/25 KB   125/422 KB   16/33 KB   8/25 KB   125/422 KB   20/33 KB   8/25 KB   125/422 KB   20/33 KB   12/25 KB   125/422 KB   24/33 KB   12/25 KB   125/422 KB   24/33 KB   16/25 KB   125/422 KB   24/33 KB   16/25 KB   125/422 KB   24/33 KB   16/25 KB   125/422 KB   24/33 KB   20/25 KB   125/422 KB   24/33 KB   24/25 KB   125/422 KB   24/33 KB   24/25 KB   125/422 KB   24/33 KB   25/25 KB   128/422 KB   24/33 KB   25/25 KB   132/422 KB   24/33 KB   25/25 KB   133/422 KB   24/33 KB   25/25 KB   136/422 KB   24/33 KB   25/25 KB   140/422 KB   24/33 KB   25/25 KB   141/422 KB   24/33 KB   25/25 KB   144/422 KB   24/33 KB   25/25 KB   148/422 KB   24/33 KB   25/25 KB   149/422 KB   24/33 KB   25/25 KB   152/422 KB   24/33 KB   25/25 KB   156/422 KB   24/33 KB   25/25 KB   160/422 KB   24/33 KB   25/25 KB   160/422 KB   24/33 KB   25/25 KB   164/422 KB   24/33 KB   25/25 KB   168/422 KB   24/33 KB   25/25 KB   168/422 KB   24/33 KB   25/25 KB   172/422 KB   24/33 KB   25/25 KB   172/422 KB   28/33 KB   25/25 KB   172/422 KB   31/33 KB   25/25 KB   172/422 KB   32/33 KB   25/25 KB   172/422 KB   33/33 KB   25/25 KB                                      Downloaded: https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar (25 KB at 92.3 KB/sec)
+176/422 KB   33/33 KB              176/422 KB   33/33 KB   180/422 KB   33/33 KB   184/422 KB   33/33 KB   184/422 KB   33/33 KB   188/422 KB   33/33 KB   192/422 KB   33/33 KB   192/422 KB   33/33 KB   195/422 KB   33/33 KB   199/422 KB   33/33 KB   200/422 KB   33/33 KB   203/422 KB   33/33 KB   207/422 KB   33/33 KB   208/422 KB   33/33 KB   211/422 KB   33/33 KB   215/422 KB   33/33 KB   216/422 KB   33/33 KB   219/422 KB   33/33 KB                           Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0-beta-2/maven-filtering-1.0-beta-2.jar (33 KB at 105.2 KB/sec)
+223/422 KB              224/422 KB   227/422 KB   231/422 KB   232/422 KB   234/422 KB   238/422 KB   240/422 KB   242/422 KB   246/422 KB   248/422 KB   250/422 KB   254/422 KB   256/422 KB   258/422 KB   262/422 KB   264/422 KB   266/422 KB   270/422 KB   272/422 KB   274/422 KB   278/422 KB   280/422 KB   281/422 KB   285/422 KB   288/422 KB   289/422 KB   293/422 KB   296/422 KB   297/422 KB   301/422 KB   304/422 KB   305/422 KB   309/422 KB   312/422 KB   313/422 KB   317/422 KB   320/422 KB   320/422 KB   324/422 KB   328/422 KB   328/422 KB   332/422 KB   336/422 KB   336/422 KB   340/422 KB   344/422 KB   344/422 KB   348/422 KB   352/422 KB   352/422 KB   356/422 KB   359/422 KB   360/422 KB   364/422 KB   367/422 KB   368/422 KB   372/422 KB   375/422 KB   376/422 KB   380/422 KB   383/422 KB   384/422 KB   388/422 KB   391/422 KB   392/422 KB   396/422 KB   399/422 KB   400/422 KB   404/422 KB   406/422 KB   408/422 KB   412/422 KB   414/422 KB   416/422 KB   420/422 KB   422/422 KB                Downloaded: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar (422 KB at 783.1 KB/sec)
+[INFO] Packaging webapp
+[INFO] Assembling webapp [Lab3] in [J:\java.course.dev\projects\Lab3\Lab3\target\Lab3]
+[INFO] Processing war project
+[INFO] Copying webapp resources [J:\java.course.dev\projects\Lab3\Lab3\src\main\webapp]
+[INFO] Webapp assembled in [40 msecs]
+[INFO] Building war: J:\java.course.dev\projects\Lab3\Lab3\target\Lab3.war
+[INFO] WEB-INF\web.xml already added, skipping
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 9.460 s
+[INFO] Finished at: 2015-02-04T20:51:33+02:00
+[INFO] Final Memory: 15M/116M
+[INFO] ------------------------------------------------------------------------
